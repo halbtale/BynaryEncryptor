@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/BynaryEncryptor/precache-manifest.97032b3803c5f27d04cbfe6a95831900.js"
+  "/precache-manifest.1820949fab73bce8c5f4296d42e1eac5.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "binary_converter"});
